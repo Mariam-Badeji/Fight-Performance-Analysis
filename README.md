@@ -1,4 +1,4 @@
-# Fight-Performance-Analysis
+# Flight-Performance-Analysis
 ## Introduction
 Flight delays are a significant challenge in the aviation industry, affecting airline operations, passenger experience, and overall efficiency. This dataset provides a comprehensive analysis of flight delays, capturing key factors such as departure and arrival times, airline performance, airport congestion, weather conditions, and air traffic control delays. By exploring these variables, the dataset aims to identify patterns and potential causes of delays, helping airlines, researchers, and policymakers develop strategies to improve on-time performance. Whether used for predictive modeling, operational analysis, or customer experience enhancement, this dataset serves as a valuable resource for understanding and mitigating flight disruptions.
 
